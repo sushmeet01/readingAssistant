@@ -1,5 +1,5 @@
 # 📘 Visually Impaired Reading Assistant  
-_A Final Year Major Project — BEI 2077_
+_A Final Year Major Project by- Arjun Koirala and Sushmit Paudel 
 
 ---
 
